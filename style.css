@@ -1,0 +1,24 @@
+strong{
+  text-decoration:underline;
+}
+h1,h2{
+  color: rgba(222, 54, 42, 0.83);
+  font-family:Arial;
+}
+body{
+background-color: rgb(18, 4, 87);
+color:rgba(201, 226, 25, 0.87);
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  color:rgb(228, 38, 30);
+}
+p{
+font-size: 100%;
+}
+p::first-letter{
+  font-size: 150%;
+}
